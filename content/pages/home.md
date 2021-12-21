@@ -14,7 +14,7 @@ meta:
 Welcome
 Currently I am still working on understanding the design of websites and what I want to have this website look like.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+
 
 # What can be expected
 
@@ -24,6 +24,6 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 - Gaming content
 - and a lot more...
 
-I am doing this as a hobby at the moment.
+#### I am doing this as a hobby at the moment.
 
 I will try and do some work weekly on this site. I have a lot of ideas and need to work on them and then try and bring them here.
