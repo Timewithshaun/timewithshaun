@@ -1,11 +1,11 @@
-import React from 'react'
+simport React from 'react'
 import './Footer.css'
 
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Follow me{' '}
+      <a href="https://instagram.com/timewithshaun/">@timewithshaun</a>
     </h2>
     <br />
     <footer className="footer">
