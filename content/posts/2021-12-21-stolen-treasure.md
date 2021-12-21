@@ -24,4 +24,4 @@ This image was done about 8 times when I do not feel happy with it I added anoth
 
 I am still trying to see how I can screenshot it into this just as a smaller or bigger image.
 
-\### Please visit my, Instagram channel to view the full res photo.
+ **Please visit my, Instagram channel to view the full res photo.**
