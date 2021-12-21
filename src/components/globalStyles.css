@@ -1,7 +1,7 @@
 :root {
   --primary: #00c2bd;
   --secondary: #e6e6e6;
-  --lightGrey: DimGrey;
+  --lightGrey: #292929;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
@@ -37,7 +37,7 @@ body {
   font-family: var(--font-system);
   min-height: 100%;
   position: relative;
-  background: DimGrey;
+  background: (--lightGrey);
   color: var(--secondary);
   font-size: 1.6em;
   font-weight: 400;
@@ -109,11 +109,11 @@ blockquote {
   background-color: var(--lightGrey);
 }
 .white {
-  background-color: DimGrey;
+  background-color: var(--lightGrey);
 }
 .dark {
   background-color: var(--primary);
-  color: DimGrey;
+  color: var(--lightGrey);
 }
 .dark h1,
 .dark h2,
@@ -121,7 +121,7 @@ blockquote {
 .dark h4,
 .dark h5,
 .dark h6 {
-  color: DimGrey;
+  color: var(--lightGrey);
 }
 
 .relative {
@@ -199,7 +199,7 @@ blockquote {
 
 .Button {
   background: var(--primary);
-  color: DimGrey;
+  color: var(--lightGrey);
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 700;
