@@ -7,7 +7,10 @@ subtitle: This is the contact page subtitle.
 address: Cape Town
 phone: Hi
 email: timewithshaun@gmail.com
-locations: []
+locations:
+  - mapLink: ""
+    lat: 33°54'40.2"S
+    lng: 18°24'56.6"E
 meta:
   description: This is a meta description.
   title: Contact Page
