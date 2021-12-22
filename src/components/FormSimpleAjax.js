@@ -103,26 +103,6 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Male</span>
-            </label>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="female"
-              />
-              <span>Female</span>
-            </label>
-          </fieldset>
-          <label className="Form--Label">
-            <input
-              className="Form--Input Form--InputText"
-              type="email"
-              placeholder="Email"
-              name="emailAddress"
-              required
-            />
             <span>Email address</span>
           </label>
           <label className="Form--Label has-arrow">
